@@ -49,6 +49,9 @@ $ git clone https://github.com/melquisedecfelipe/gomarketplace
 # Go into the repository and install dependencies
 $ cd gomarketplace && yarn
 
+# Run server
+$ yarn json-server server.json -p 3333
+
 # Run app (ios)
 $ yarn ios
 
