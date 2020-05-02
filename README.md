@@ -32,11 +32,9 @@ This project was developed with the following technologies:
 
 - [Axios](https://github.com/axios/axios)
 - [Eslint](https://eslint.org/)
-- [Filesize](https://github.com/avoidwork/filesize.js)
-- [Polished](https://polished.js.org/)
 - [Prettier](https://prettier.io/)
-- [React](https://reactjs.org/)
-- [React dropzone](https://github.com/react-dropzone/react-dropzone)
+- [React native](https://facebook.github.io/react-native/)
+- [React navigation](https://reactnavigation.org/)
 - [Styled components](https://styled-components.com/)
 - [Typescript](https://www.typescriptlang.org/)
 
